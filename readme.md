@@ -8,12 +8,12 @@
 
 -creare una cartella per registrare le stampe.
 
--inizio con la stampa
+-iniziare  con la stampa
 
     - faccio il fronte
 
     -faccio il retro
 
-continuo Fintanche csi sono fogli da stampare.
+-continuare Fintantoche ci sono fogli da stampare.
 
--Registro la nella cartella creata.
+-Se non ci sono più fogli, registrare  nella cartella creata.
