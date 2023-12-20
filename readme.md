@@ -14,6 +14,6 @@
 
     -faccio il retro
 
--continuare Fintantoche ci sono fogli da stampare.
+-rRipetere l'operazione sugli altri fogli Fintantoche ci sono fogli da stampare.
 
 -Se non ci sono più fogli, registrare  nella cartella creata.
